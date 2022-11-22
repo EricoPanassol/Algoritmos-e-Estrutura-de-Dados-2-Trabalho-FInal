@@ -1,0 +1,6 @@
+pavê -> frutas_vermelhas
+manga -> abacaxi_com_hortelã
+goiaba -> prestígio
+amendoim -> queijo
+abacate -> prestígio
+nata -> goiaba
